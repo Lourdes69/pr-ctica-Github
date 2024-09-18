@@ -5,7 +5,7 @@ on:
   
 jobs:
   hola:
-    runs-on: windows
+    runs-on: ubuntu-lastest
     steps:
       - name: Hola Mundo
         run: echo "Hola Mundo"
